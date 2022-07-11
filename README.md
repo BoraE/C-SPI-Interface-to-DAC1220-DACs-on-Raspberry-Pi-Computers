@@ -13,4 +13,4 @@ Use the Makefile to compile the test example or modify it to suit your needs:
 - To generate documentation, run `make doc`. You need to install [Doxygen](https://www.doxygen.nl/manual/index.html) to generate documentation.
 
 ## Test Code
-The file `test_dac1220.cpp` constains an example. After building the code, run it as `sudo ./build/test_dac1220`.
+The file `test_dac1220.cpp` constains an example. After building the code, run it as `sudo ./build/test_dac1220` or `make test`.
